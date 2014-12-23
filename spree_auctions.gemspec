@@ -7,9 +7,7 @@ Gem::Specification.new do |s|
   s.description = 'TODO: Add (optional) gem description here'
   s.required_ruby_version = '>= 1.9.3'
 
-  # s.author    = 'enbake'
-  # s.email     = 'ishwinder@enbake.com'
-  # s.homepage  = 'http://www.enbake.com'
+  s.author    = 'monisr'
 
   #s.files       = `git ls-files`.split("\n")
   #s.test_files  = `git ls-files -- {test,spec,features}/*`.split("\n")
